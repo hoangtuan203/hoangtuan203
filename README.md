@@ -5,11 +5,7 @@
 </p>
 
 <br />
-
-              ## 📫 How to reach me:
-
-
-
+## 📫 How to reach me:              
 <p align="center">
   <a href="https://www.instagram.com/tuannh13/" alt="Instagram">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
